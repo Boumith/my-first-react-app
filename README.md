@@ -7,8 +7,8 @@ Welcome to My First React App! This project is my first attempt at creating a Re
 To run this project locally, follow these steps:
 
   Clone the repository to your local machine:
-   (In bash or Vscode terminal)
-  " git clone https://github.com/your-username/my-first-react-app.git "
+   ```bash
+   git clone https://github.com/your-username/my-first-react-app.git
 
                    (or)
    
